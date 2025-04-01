@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kameelportfolio.vercel.app/](https://kameelportfolio.vercel.app/)
 
-- 💬 Ask me about **React, tailwindcss**
+- 💬 Ask me about **React, tailwindcss** , JavaScript**, TypeScript**, TON Blockchain**, Nextjs**
 
 - 📫 How to reach me **bolatitoamoho@gmail.com**
 
